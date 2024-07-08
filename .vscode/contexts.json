@@ -1,7 +1,7 @@
 {
-    "contexts": {},
-    "configs": {
-        "showFolders": false,
-        "orderAlphabetically": true
-    }
+  "contexts": {},
+  "configs": {
+    "showFolders": false,
+    "orderAlphabetically": true
+  }
 }
